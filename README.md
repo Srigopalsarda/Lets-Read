@@ -1,3 +1,8 @@
+# Description
+
+The Daily News Aggregator is a web application that provides users with daily news articles tailored to their interests from various fields such as technology, sports, entertainment, and more. Users can customize their news feed by selecting their preferred topics and sources.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Contributing 
+Fork the repository.
+Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
+Make your changes and commit them: `git commit
