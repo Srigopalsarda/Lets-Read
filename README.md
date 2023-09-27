@@ -1,6 +1,6 @@
 # Description
 
-The Daily News Aggregator is a web application that provides users with daily news articles tailored to their interests from various fields such as technology, sports, entertainment, and more. Users can customize their news feed by selecting their preferred topics and sources.
+The Daily News Aggregator is an online programme that allows users to get daily news stories that are specific to their interests from a variety of sectors like technology, sports, entertainment, and other topics. Users have the ability to personalise their news feeds by picking the subjects and sources of interest to them.
 
 
 # Getting Started with Create React App
