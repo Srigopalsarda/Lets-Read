@@ -2,7 +2,7 @@
 
 The Daily News Aggregator is an online programme that allows users to get daily news stories that are specific to their interests from a variety of sectors like technology, sports, entertainment, and other topics. Users have the ability to personalise their news feeds by picking the subjects and sources of interest to them.
 
-# A glance of the app is shown in the video below
+# A glance of the website is shown in the video below
 
 https://github.com/Srigopalsarda/Lets-Read/assets/107978887/2393389b-ae6b-4bac-9e93-f4eb3c0a8603
 
